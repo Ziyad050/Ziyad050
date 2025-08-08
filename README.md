@@ -2,7 +2,16 @@
 
 🎓 **B.S. in Computer Engineering (IoT Concentration)** – King Fahd University of Petroleum & Minerals  
 🔬 Hardware, AI, and IoT Engineer | IEEE Published Researcher  
-💼 **Actively seeking full-time opportunities** in **Digital Hardware Design, SoC/ASIC Development, Embedded Systems, and Edge AI**.  
+💼 **Actively seeking full-time opportunities** in the following fields:  
+
+---
+
+## 🎯 Fields & Roles  
+
+- **Digital Hardware Design & AI Hardware Acceleration** – Digital Design Engineer, RTL Design Engineer, FPGA Design Engineer, ASIC Design Engineer, AI Accelerator Design Engineer  
+- **System-on-Chip (SoC) Development** – SoC Design Engineer, Hardware Architecture Engineer, Embedded SoC Engineer  
+- **Embedded Systems & IoT** – Embedded Systems Engineer, IoT Solutions Engineer, Firmware Engineer  
+- **AI, Machine Learning & Data Science** – AI/ML Engineer, Data Scientist, Computer Vision Engineer  
 
 ---
 
