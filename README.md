@@ -12,7 +12,7 @@
 
 ## 💡 About Me  
 I specialize in developing **AI-powered smart systems** that integrate **hardware, software, and IoT technologies**.  
-My experience spans **digital hardware design (FPGA/ASIC)**, **embedded systems development**, and **AI/ML model deployment** on edge devices.  
+My experience spans **Digital Hardware Design (FPGA & System-on-Chips (SoC))**, **embedded systems development**, **Full-Stack Smart IoT Systems**,  and **AI/ML**. 
 I have worked on projects ranging from **CubeSat embedded systems** to **FPGA-based AI accelerators**, and I’m passionate about building high-performance, efficient, and secure computing solutions.  
 
 ---
