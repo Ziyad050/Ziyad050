@@ -4,10 +4,6 @@
 🔬 Hardware, AI, and IoT Engineer | IEEE Published Researcher  
 💼 **Actively seeking full-time opportunities** in the following fields:  
 
----
-
-## 🎯 Fields & Roles  
-
 - **Digital Hardware Design & AI Hardware Acceleration** – Digital Design Engineer, RTL Design Engineer, FPGA Design Engineer, ASIC Design Engineer, AI Accelerator Design Engineer  
 - **System-on-Chip (SoC) Development** – SoC Design Engineer, Hardware Architecture Engineer, Embedded SoC Engineer  
 - **Embedded Systems & IoT** – Embedded Systems Engineer, IoT Solutions Engineer, Firmware Engineer  
